@@ -10,21 +10,18 @@ This project transforms raw, messy data scraped from Quikr.com into a production
 - Linear Regression model with 0.92 R² score
 - Interactive Flask web application
 - Real-time price predictions
-- Heroku cloud deployment
-- Complete ML pipeline automation
 
 ## ⚙️ Tech Stack
 - Python (Pandas, NumPy, Scikit-learn)
 - Flask (Web Framework)
 - HTML/CSS/JavaScript (Frontend)
-- Git & GitHub (Version Control)
-- Heroku (Cloud Deployment)
+- Git & GitHub 
 
 ## 🔍 Features Used
 - Car Company (Hyundai, Maruti, Honda, etc.)
 - Car Model (i10, Swift, City, etc.)
 - Year of Purchase
-- Fuel Type (Petrol/Diesel/CNG)
+- Fuel Type (Petrol/Diesel)
 - Kilometers Driven
 
 ## 🚀 Project Pipeline
@@ -32,11 +29,16 @@ This project transforms raw, messy data scraped from Quikr.com into a production
 2. Data Cleaning → Handled null values, formatted columns
 3. EDA → Analyzed price trends by company, year, fuel
 4. Feature Engineering → One-hot encoding for categories
-5. Model Training → Linear Regression (92% accuracy)
+5. Model Training → Linear Regression 
 6. Web Development → Flask app with user-friendly interface
 
 ## 🎯 Objective
 To build a production-ready ML system that helps users estimate fair used car prices, making the second-hand car market more transparent and data-driven.
+
+
+## 📸 Screenshots
+<img width="1600" height="2370" alt="screencapture-127-0-0-1-5000-predict-2026-02-23-22_49_52" src="https://github.com/user-attachments/assets/85598dc4-87fc-4d81-b92c-3bd693611eb7" />
+
 
 ## 👨‍💻 Author
 **Mehfooz Ali**  
